@@ -1,6 +1,6 @@
 # LINEA NFT Minter Dapp
 
-This is an example of a NFT minter dapp on LINEA.
+This is an NFT minter dapp on LINEA.
 ## Tech Stack Used
 
 - React
