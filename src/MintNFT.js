@@ -77,7 +77,7 @@ function MintNFT() {
     <Container maxWidth="lg">
       <Box sx={{ mt: 4, mb: 2 }}>
         <Typography variant="h4" align="center" gutterBottom>
-          BASE NFT Minter
+          LINEA NFT Minter
         </Typography>
       </Box>
       <Grid container spacing={2}>
@@ -91,7 +91,7 @@ function MintNFT() {
                 size="small"
                 disabled={walletAddress} 
               >
-                {walletAddress ? "Wallet Connected" : "Connect Wallet to BASE Mainnet"}
+                {walletAddress ? "Wallet Connected" : "Connect Wallet to LINEA Mainnet"}
               </Button>
             </Box>
           {walletAddress && (
