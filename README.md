@@ -15,7 +15,7 @@ This is an example of a NFT minter dapp on LINEA.
 
 - Connect Wallet & See Wallet address & balance
 - Upload Images/Jpeg/Videos directly to IPFS before minting
-- Mint on Shardeum Testnet
+- Mint on Linea Sepolia Testnet
 - Intuitive UI statuses for minting
 
 Contact me:
