@@ -219,7 +219,7 @@ function MintNFT() {
           transactionHistory.map((hash, index) => (
             <Box key={index} mt={1} textAlign="left">
               <Link
-                href={`https://basescan.org/tx/${hash}`}
+                href={`https://sepolia.lineascan.build/tx/${hash}`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
