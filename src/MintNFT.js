@@ -91,7 +91,7 @@ function MintNFT() {
                 size="small"
                 disabled={walletAddress} 
               >
-                {walletAddress ? "Wallet Connected" : "Connect Wallet to LINEA Mainnet"}
+                {walletAddress ? "Wallet Connected" : "Connect Wallet to LINEA Sepolia Testnet"}
               </Button>
             </Box>
           {walletAddress && (
